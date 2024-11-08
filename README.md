@@ -3,11 +3,13 @@
 Welcome! This repository contains individual assignments, each organized in its own branch. You can explore each assignment by switching branches to view the relevant code and any associated project previews.
 
 ## 1 Assignment: Practicing Indentation
-If you get stuck on any lesson in the series, navigate to the course branch for your current lesson (1) and view or download (2, 3) the code for more help.
+Objectives
+- To apply correct spacing
+- To align opening, and closing tags
 
 ![Indentation1](assets/Practicing-Indentation1.png)
+![Indentation2](assets/Practicing-Indentation2.png)
 
-[Demo App](https://codinginpublic.dev/projects/react-router-budget-app/)
 
 ## Lesson Help
 If you get stuck on any lesson in the series, navigate to the course branch for your current lesson (1) and view or download (2, 3) the code for more help.

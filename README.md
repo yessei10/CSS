@@ -16,5 +16,5 @@ Objectives
 - To check if the code conforms to standards using the validator
 - To apply indentation
 
-![Indentation1](assets/Practicing-Indentation1.png)
+![pizza-order-form](assets/pizza-order-form.png)
 

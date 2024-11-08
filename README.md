@@ -2,7 +2,10 @@
 
 Welcome! This repository contains individual assignments, each organized in its own branch. You can explore each assignment by switching branches to view the relevant code and any associated project previews.
 
-![Homepage preview of demo page](assets/budget-app-preview.jpeg)
+## 1 Assignment: Practicing Indentation
+If you get stuck on any lesson in the series, navigate to the course branch for your current lesson (1) and view or download (2, 3) the code for more help.
+
+![Download code from GitHub](assets/code-help.jpeg)
 
 [Demo App](https://codinginpublic.dev/projects/react-router-budget-app/)
 

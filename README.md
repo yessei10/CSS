@@ -5,7 +5,7 @@ Welcome! This repository contains individual assignments, each organized in its 
 ## 1 Assignment: Practicing Indentation
 If you get stuck on any lesson in the series, navigate to the course branch for your current lesson (1) and view or download (2, 3) the code for more help.
 
-![Download code from GitHub](assets/code-help.jpeg)
+![Indentation1](assets/Practicing-Indentation1.png)
 
 [Demo App](https://codinginpublic.dev/projects/react-router-budget-app/)
 

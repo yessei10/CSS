@@ -1,6 +1,6 @@
-# React Router Budget App
+# Finished Assignment
 
-During this course, we’ll build an interactive budget app using React Router 6.8 and local storage.
+Welcome! This repository contains individual assignments, each organized in its own branch. You can explore each assignment by switching branches to view the relevant code and any associated project previews.
 
 ![Homepage preview of demo page](assets/budget-app-preview.jpeg)
 
